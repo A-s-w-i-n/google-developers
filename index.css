@@ -5,7 +5,7 @@ body{
     width: 100%;
     height: 4360px;
     background: rgb(255, 255, 255);
-    overflow-x: hidden;
+
 
 }
 .head{
@@ -357,6 +357,28 @@ float: left;
     position: relative;
     left: 116px;
     top: 0px;
+    width: 176px;
+}
+.imgname2{
+    font-family: system-ui;
+    position: relative;
+    left: 98px;
+    top: 0px;
+    width: 176px;
+}
+.imgname3{
+    font-family: system-ui;
+    position: relative;
+    left: 110px;
+    top: 0px;
+    width: 176px;
+}
+.imgname4{
+    font-family: system-ui;
+    position: relative;
+    left: 131px;
+    top: 0px;
+    width: 176px;
 }
 .line{
     width: 228px;
@@ -639,6 +661,7 @@ border-radius: 5px;
     left: 348px;
     bottom: 22px;
     font-family: system-ui;
+    width: 191px;
 }
 .ninediv{
     width: 301px;
@@ -670,6 +693,7 @@ border-radius: 5px;
     font-family: system-ui;
     position: relative;
     top: 7px;
+    width: 200px;
     left: 69px;
 }
 .place{
@@ -678,6 +702,7 @@ border-radius: 5px;
     left: 74px;
     bottom: 3px;
     font-size: 15px;
+    width: 187px;
 }
 .expertise{
     font-size: 16px;
@@ -685,6 +710,7 @@ border-radius: 5px;
     position: relative;
     left: 112px;
     bottom: 1px;
+    width: 76px;
 
 }
 .domine{
@@ -693,6 +719,7 @@ border-radius: 5px;
     position: relative;
     left: 86px;
     bottom: 16px;
+    width: 136px;
 }
 .ninebutton{
     width: 92px;
@@ -822,14 +849,16 @@ border-radius: 5px;
     left: 22px;
     top: 15px;
     color: #56534f;
+    width: 66px;
 }
 .products1{
     font-size: 14px;
     font-family: system-ui;
     position: relative;
     left: 119px;
-    top: -5px;
-    color:#535353;;
+    top: -21px;
+    color:#535353;
+    width: 70px;
     
    
 }
@@ -838,17 +867,19 @@ border-radius: 5px;
     font-family: system-ui;
     position: relative;
     left: 197px;
-    top: -5px;
-    top: -23px;
-    color:#535353;;
+    top: -41px;
+    
+    color:#535353;
+    width: 70px;
 }
 .products3{
     font-size: 14px;
     font-family: system-ui;
     position: relative;
     left: 269px;
-    top: -5px;
-    top: -42px;
+    top: -60px;
+    
+    width: 124px;
     color:#535353;;
 }
 .products4{
@@ -856,8 +887,9 @@ border-radius: 5px;
     font-family: system-ui;
     position: relative;
     left: 395px;
-    top: -5px;
-    top: -61px;
+    
+    top: -78px;
+    width: 112px;
     color: #383737;
 }
 .products5{
@@ -865,8 +897,9 @@ border-radius: 5px;
     font-family: system-ui;
     position: relative;
     left: 558px;
-    top: -5px;
-    top: -80px;
+    
+    top: -97px;
+    width: 68px;
     color: #383737;
 }
 .searchbar{
@@ -874,10 +907,9 @@ border-radius: 5px;
     font-family: system-ui;
     position: relative;
     left: 636px;
-    top: -5px;
-    top: -80px;
+   
     color: #383737;
-    top: -107px;
+    top: -125px;
     height: 36px;
     width: 200px;
     border-color: white;
@@ -892,7 +924,7 @@ border-radius: 5px;
     background-color: transparent;
     height: 34px;
     position: relative;
-    top: -232px;
+    top: -247px;
     border-radius: 5px;
     left: 854px;
     font-family: system-ui;
@@ -911,22 +943,23 @@ border-radius: 5px;
 }
 .fa-solid, .fas {
     font-weight: 900;
-    bottom: 184px;
+    bottom: 199px;
     left: 649px;
         color: #747474;
 }
 .find{
     position: relative;
-    bottom: 149px;
+    bottom: 166px;
     left: 681px;
     font-family: sans-serif;
     color: #838383;
     font-weight: 500;
+    width: 68px;
 
 
 }#globe{
     position: relative;
-    bottom: 203px;
+    bottom: 218px;
     left: 865px;
     z-index: 1;
 }
@@ -940,13 +973,13 @@ border-radius: 5px;
     font-weight: 500;
 }
 #dot{
-    bottom: 270px;
+    bottom: 284px;
     left: 1007px;
 }
 #dotcircle{
     font-size: 30px;
     position: relative;
-    bottom: 265px;
+    bottom: 279px;
     left: 986px;
     color: #5e5e5e;
 }
